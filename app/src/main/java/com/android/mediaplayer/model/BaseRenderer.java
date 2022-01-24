@@ -50,6 +50,7 @@ public abstract class BaseRenderer {
                 program = 0;
             }
         }
+
         return program;
     }
 
